@@ -1,27 +1,19 @@
 {
-  "name": "MEAN",
+  "name": "RomaCF",
   "version": "1.0.0",
-  "description": "A MEAN app that allows users to manage contact lists",
+  "description": "RomaCF website",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/chrisckchang/mean-contactlist.git"
+    "url": "https://github.com/romacfbcn/romacfbcn"
   },
-  "keywords": [
-    "MEAN",
-    "Express",
-    "Angular"
-  ],
-  "author": "Chris Chang",
+  "keywords": ["MEAN", "MongoDB", "Express", "Angular", "Node", "Roma",  "RomaCF", "Football"],
+  "author": "Alejandro Perales & David Olivé",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/chrisckchang/mean-contactlist/issues"
-  },
-  "homepage": "https://github.com/chrisckchang/mean-contactlist",
   "dependencies": {
     "body-parser": "^1.13.3",
     "express": "^4.13.3",

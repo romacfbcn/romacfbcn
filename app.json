@@ -1,8 +1,8 @@
 {
-  "name": "MEAN Contact List Example",
-  "description": "A MEAN app that allows users to manage a contact list.",
-  "repository": "https://github.com/chrisckchang/mean-contactlist",
+  "name": "RomaCF website",
+  "description": "RomaCF website",
+  "repository": "https://github.com/romacfbcn/romacfbcn",
   "logo": "https://mlab.com/company/brand/resources/mLab-logo-onlight.png",
-  "keywords": ["node", "express", "angular", "MEAN", "mongodb", "REST", "API"],
+  "keywords": ["MEAN", "MongoDB", "Express", "Angular", "Node", "Roma",  "RomaCF", "Football"],
   "addons": ["mongolab"]
 }
