@@ -17,7 +17,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# Node modules (test)
+# Node modules
 node_modules/
 
 # =========================
